@@ -1,0 +1,21 @@
+/* 
+  Localization.strings
+  weatherApp
+
+  Created by Marat on 19.03.2022.
+  
+*/
+
+"today"     = "Today";
+"monday"    = "MONDAY";
+"tuesday"   = "TUESDAY";
+"wednesday" = "WEDNESDAY";
+"thursday"  = "THURSDAY";
+"friday"    = "FRIDAY";
+"saturday"  = "SATURDAY";
+"sunday"    = "SUNDAY";
+
+"city"      = "City";
+"country"   = "Country";
+"weather"   = "Weather";
+"forecast"  = "Forecast";
